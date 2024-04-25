@@ -6,7 +6,7 @@
 
 
 <details>
-  <summary>Skills</summary>
-languages: <code>.python</code>, <code>.javascript</code>, <code>.c#</code> </br>
-design: <code>.figma</code>, <code>.photoshop</code>
+  <summary>Contact</summary>
+<a href="https://www.linkedin.com/in/pedro-carvalho-1aa9a4266/">Linkedin</a> </br>
+<a href="mailto:pedrohpcarvalho@Outlook.com">E-mail</a>
 </details>
